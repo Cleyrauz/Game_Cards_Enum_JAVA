@@ -31,5 +31,5 @@ public class CardTest {
     public void testCardHasAName(){
         assertEquals("EIGHT of CLUBS", this.card.niceName());
     }
-    
+
 }
