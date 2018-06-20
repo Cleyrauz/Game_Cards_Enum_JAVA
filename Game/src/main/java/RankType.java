@@ -29,4 +29,5 @@ public enum RankType {
     public String getName() {
         return name;
     }
+
 }
